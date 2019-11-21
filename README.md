@@ -2,9 +2,9 @@
 
 Cross-platform app for Android & iOS that was written in Flutter&Dart.
 
-##Video
+## Video
 
-// spot for YouTube Video long and short version
+- spot for YouTube Video long and short version
 
 ## Screenshot
 
