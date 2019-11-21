@@ -8,7 +8,7 @@ Cross-platform app for Android & iOS that was written in Flutter&Dart.
 
 ## Screenshot
 
-[Screenshot](preview_image.png)
+![Screenshot](preview_image.png)
 
 ## More about Flutter
 
