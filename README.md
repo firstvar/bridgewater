@@ -5,6 +5,7 @@ Cross-platform prototype app for Android & iOS that was written in Flutter&Dart.
 ## Video
 
 Check YouTube:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lWcybBr_LNc/0.jpg)](https://www.youtube.com/watch?v=lWcybBr_LNc)
 
 ## Screenshot
